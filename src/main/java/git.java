@@ -6,5 +6,6 @@ public class git {
         System.out.println("hello4");
         System.out.println("hot-fix commit");
         System.out.println("master commit");
+        System.out.println("hot-fix commit2");
     }
 }
