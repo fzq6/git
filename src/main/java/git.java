@@ -5,5 +5,6 @@ public class git {
         System.out.println("hello3");
         System.out.println("hello4");
         System.out.println("hot-fix commit");
+        System.out.println("hot-fix commit2");
     }
 }
